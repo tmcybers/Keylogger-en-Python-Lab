@@ -1,4 +1,4 @@
-TARGET > PARROT OS (El backdoor se encuentra en la maquina Parrot)
+# --> TARGET --->> PARROT OS 
 
 
 * Requerimientos : Instalar pynput
