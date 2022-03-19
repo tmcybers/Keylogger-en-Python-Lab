@@ -57,7 +57,7 @@ with Listener(on_press=capturar_teclas) as l:
 ![guradar txt](https://user-images.githubusercontent.com/97669969/159135961-8b358780-7b10-44d7-b568-703aa8a0b0d6.png)
 * El documento .txt esta creado, incluso implementamos un segundo .txt con fechas y hora , diario.
 
-# Envio de correo con Gmail.com
+# Envio de correo con Gmail.com 
 # HackMode TIP! : a partir de 30 de mayo del 2022 gmail bloquea todas las apps noseguras.
 * PARA ESO : en tu cuenta de google debes Permitir el acceso de aplicaciones menos seguras: en 'SÍ'
 
@@ -84,7 +84,7 @@ print("Correo enviando correctamente")
 ```
 
 ![envio de correo parrot](https://user-images.githubusercontent.com/97669969/159138025-d4a906b7-e5dd-4f8b-af83-08a57512966b.png)
-
+* El correo usado es un nombre al azar, usado como exemplo)
 
 
 * Recibimos el correo desde nuestras !Targets!
