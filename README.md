@@ -340,8 +340,8 @@ pip install pyinstaller
 pyinstaller --onefile -windowed --noconsole -i=whatsapp.ico log.py --name installer
 ```
 
-* En el anterior repo mio (Backdoor Laboratorio) > explico en detalle cada uno de los comandos.
-
+* En el anterior repo mio (Backdoor Laboratorio) > explico en detalle cada uno de los comandos:
+* https://github.com/tmcyberagent/BACKDOOR-LABORATORIO-
 
 ![adm de tareas](https://user-images.githubusercontent.com/97669969/159286830-b26c4e84-0cb5-497f-bf9b-600d48582681.png)
 
