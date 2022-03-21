@@ -310,5 +310,12 @@ log.start()
 # IMPORTANTE: El log lo paramos mediante CTRL+C en el terminal, pero en la maquina dela victima por ex: NO SE PUEDE PARAR!
 
 
-"TMCyber ofrece su información en Internet básicamente en beneficio de las personas interesadas en los esfuerzos y en favor de la puesta en práctica de la protección y promoción de la seguridad informatica (Ciberseguridad) y el Hacking Etico.""
+
+
+
+
+
+# "TMCyber offers its information on the Internet basically for the benefit of people interested in the efforts and in favor of the implementation of the protection and promotion of computer security (Cybersecurity) and Ethical Hacking.""
+TMCyber is not responsible for the misuse of this tool.
+
 
