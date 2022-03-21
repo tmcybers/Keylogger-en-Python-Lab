@@ -307,7 +307,7 @@ log.start()
 ![vacio](https://user-images.githubusercontent.com/97669969/159141980-8d02df4a-1617-4e6b-a497-cb11bb7213c6.png)
 
 *  Si lo seteamos a 15 seg cada 15 seg recibimos el email.
-# IMPORTANTE: El log lo paramos mediante CTRL+C en el terminal, pero en la maquina dela victima por ex: NO SE PUEDE PARAR!
+# IMPORTANTE: El keylogger lo paramos mediante CTRL+C en el terminal nuestro, pero en la maquina dela victima por ex: NO SE PUEDE PARAR!
 
 
 
