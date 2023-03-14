@@ -364,8 +364,7 @@ pyinstaller --onefile -windowed --noconsole -i=whatsapp.ico log.py --name instal
 
 
 
-# "TMCyber offers its information on the Internet basically for the benefit of people interested in the efforts and in favor of the implementation of the protection and promotion of computer security (Cybersecurity) and Ethical Hacking.""
-TMCyber is not responsible for the misuse of this tool.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=30&width=1000&duration=6969&lines=I+am+not+responsible+for+[the+misuse+of+my+tools]!)](https://git.io/typing-svg)
 
 ### If this project help you reduce time to develop, you can give me a cup of coffee :)
 
